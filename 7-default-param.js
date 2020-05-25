@@ -5,4 +5,6 @@ const greeter = (name= 'user', age)=>{
 
 greeter('Garima')
 
+greeter('Ria')
+
 greeter()
